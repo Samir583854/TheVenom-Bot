@@ -75,7 +75,7 @@ let handler = async (m, {
 *🐦‍⬛حط قبل اي امر (.)* 
 *✆⏐بــوت ت ــابـع⬷🎄𝕭Ø𝕾𝕾* 
 *✆⏐بــوت ت ــابـع⬷🎄MOAZZZ* 
-*🌀المنصه 𝐑𝐄𝐏𝐋𝐈𝐓* 
+*🌀المنصه Herko* 
 *رابط جروب المطورين💦*
 *https://chat.whatsapp.com/HEo159L6DVs4Yc3E8VuFox*
 *🙈تفضل القائمة يا*  ${taguser}
